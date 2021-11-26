@@ -1,5 +1,5 @@
 # My-Portfolio
-| My Personal Portofolio |
+
 
 About me
 
@@ -10,3 +10,5 @@ My skills
 My Projects
 
 Contact Details
+
+__Pramoda Piyumali Gunasekara__
